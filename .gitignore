@@ -1,0 +1,10 @@
+*.pyc
+*.idea
+*.DS_Store
+
+__pychche__
+migrations
+
+media/
+
+
